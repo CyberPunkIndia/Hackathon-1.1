@@ -21,3 +21,13 @@
 
 
 Now webisite is up and running at [HELP DESK](https://helpdeskpk.herokuapp.com)
+
+
+
+## Final...
+ - Everything is created from scrach
+ - No tools used 
+ - Modulerized 
+ - More than 2000 lines of code is written in 15 hrs
+ - up and running on heroku
+ -
